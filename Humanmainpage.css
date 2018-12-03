@@ -1,0 +1,14 @@
+h1 {
+  font-family: Arial;
+  color: red;
+  text-align: center;
+  font-size: 70px;
+}
+h2 {
+  color: limegreen;
+  font-family: Arial;
+  font-size: 30px;
+}
+p {
+  font-family: Arial;
+}
