@@ -16,11 +16,7 @@ li {
   font-family: Arial;
   font-size: 20px;
   color: blue;
-  display: inline-block;
 }
 img {
   width: 500px;
-}
-.left-side {
-  display: inline-block;
 }
